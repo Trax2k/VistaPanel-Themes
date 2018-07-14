@@ -12,8 +12,6 @@ The code in there is just an example using the Light theme, you must change "lig
 
 It will be now deployed and used in VistaPanel. Congratulations, you have just changed your theme!
 # Main Website and Server
-The project's main website is currently located at https://vpanel.gq.<br/>
-Our main Discord Server is at:
-https://discord.gg/nCfHUUS
+The project's main website is currently located at https://www.smflite.com.<br/>
 
 Thank you for participating and downloading this Theme! Happy customizing!
